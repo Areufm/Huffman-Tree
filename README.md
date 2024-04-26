@@ -28,8 +28,7 @@
 
 ## 概要设计
 
-![image-20240425134907433](./../../Photos/image-20240425134907433.png)
-
+[![概要设计.png](https://s21.ax1x.com/2024/04/26/pkPJGuD.png)](https://imgse.com/i/pkPJGuD)
 ## 代码实现
 
 ### 必要库引入
@@ -1365,53 +1364,46 @@ int main() {
 ## 功能演示
 
 #### 0. 菜单
+[![菜单.png](https://s21.ax1x.com/2024/04/26/pkPJYHH.png)](https://imgse.com/i/pkPJYHH)
 
-![image-20240426125223672](./../../Photos/image-20240426125223672.png)
 
 #### 1. 构建哈夫曼树
+[![创建哈夫曼树.png](https://s21.ax1x.com/2024/04/26/pkPJNEd.png)](https://imgse.com/i/pkPJNEd)
 
-![image-20240426125358356](./../../Photos/image-20240426125358356.png)
 
 #### 2. 编码单个字符
+[![编码单个字符A.png](https://s21.ax1x.com/2024/04/26/pkPJwCt.png)](https://imgse.com/i/pkPJwCt)
+[![编码单个字符B.png](https://s21.ax1x.com/2024/04/26/pkPJ08P.png)](https://imgse.com/i/pkPJ08P)
 
-![image-20240426125529526](./../../Photos/image-20240426125529526.png)
-
-![image-20240426125546644](./../../Photos/image-20240426125546644.png)
 
 
 
 #### 3. 编码文件
 
 文件ToBeTran如下：
+[![ToBeTran.png](https://s21.ax1x.com/2024/04/26/pkPJa4I.png)](https://imgse.com/i/pkPJa4I)
 
-![image-20240426125637838](./../../Photos/image-20240426125637838.png)
-
-![image-20240426125726600](./../../Photos/image-20240426125726600.png)
-
+[![编码文件.png](https://s21.ax1x.com/2024/04/26/pkPYfdH.png)](https://imgse.com/i/pkPYfdH)
 已成功写入文件CodeFile：
 
-![image-20240426125806562](./../../Photos/image-20240426125806562.png)
+[![CodeFile.png](https://s21.ax1x.com/2024/04/26/pkPJBgf.png)](https://imgse.com/i/pkPJBgf)
 
 #### 4. 译码文件
-
-![image-20240426125846065](./../../Photos/image-20240426125846065.png)
-
+[![译码文件.png](https://s21.ax1x.com/2024/04/26/pkPYULF.png)](https://imgse.com/i/pkPYULF)
 
 
 #### 5. 打印哈夫曼树
+[![打印哈夫曼树.png](https://s21.ax1x.com/2024/04/26/pkPYdZ4.png)](https://imgse.com/i/pkPYdZ4)
 
-![image-20240426125923813](./../../Photos/image-20240426125923813.png)
-
-![image-20240426125958532](./../../Photos/image-20240426125958532.png)
-
+[![TreePrint.png](https://s21.ax1x.com/2024/04/26/pkPYNsU.png)](https://imgse.com/i/pkPYNsU)
 
 
 #### 6. 读取哈夫曼树
+[![读取哈夫曼树.png](https://s21.ax1x.com/2024/04/26/pkPJUUA.png)](https://imgse.com/i/pkPJUUA)
 
-![image-20240426125506952](./../../Photos/image-20240426125506952.png)
 
 #### 7. 打印代码文件
 
-![image-20240426130032554](./../../Photos/image-20240426130032554.png)
+[![打印代码文件.png](https://s21.ax1x.com/2024/04/26/pkPYwdJ.png)](https://imgse.com/i/pkPYwdJ)
 
-![image-20240426130129064](./../../Photos/image-20240426130129064.png)
+[![CodePrint.png](https://s21.ax1x.com/2024/04/26/pkPJ3jO.png)](https://imgse.com/i/pkPJ3jO)
