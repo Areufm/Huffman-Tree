@@ -1363,22 +1363,22 @@ int main() {
 
 ## 六、功能演示
 
-#### 0. 菜单
+### 0. 菜单
 [![菜单.png](https://s21.ax1x.com/2024/04/26/pkPJYHH.png)](https://imgse.com/i/pkPJYHH)
 
 
-#### 1. 构建哈夫曼树
+### 1. 构建哈夫曼树
 [![创建哈夫曼树.png](https://s21.ax1x.com/2024/04/26/pkPJNEd.png)](https://imgse.com/i/pkPJNEd)
 
 
-#### 2. 编码单个字符
+### 2. 编码单个字符
 [![编码单个字符A.png](https://s21.ax1x.com/2024/04/26/pkPJwCt.png)](https://imgse.com/i/pkPJwCt)
 [![编码单个字符B.png](https://s21.ax1x.com/2024/04/26/pkPJ08P.png)](https://imgse.com/i/pkPJ08P)
 
 
 
 
-#### 3. 编码文件
+### 3. 编码文件
 
 文件ToBeTran如下：
 [![ToBeTran.png](https://s21.ax1x.com/2024/04/26/pkPJa4I.png)](https://imgse.com/i/pkPJa4I)
@@ -1388,21 +1388,21 @@ int main() {
 
 [![CodeFile.png](https://s21.ax1x.com/2024/04/26/pkPJBgf.png)](https://imgse.com/i/pkPJBgf)
 
-#### 4. 译码文件
+### 4. 译码文件
 [![译码文件.png](https://s21.ax1x.com/2024/04/26/pkPYULF.png)](https://imgse.com/i/pkPYULF)
 
 
-#### 5. 打印哈夫曼树
+### 5. 打印哈夫曼树
 [![打印哈夫曼树.png](https://s21.ax1x.com/2024/04/26/pkPYdZ4.png)](https://imgse.com/i/pkPYdZ4)
 
 [![TreePrint.png](https://s21.ax1x.com/2024/04/26/pkPYNsU.png)](https://imgse.com/i/pkPYNsU)
 
 
-#### 6. 读取哈夫曼树
+### 6. 读取哈夫曼树
 [![读取哈夫曼树.png](https://s21.ax1x.com/2024/04/26/pkPJUUA.png)](https://imgse.com/i/pkPJUUA)
 
 
-#### 7. 打印代码文件
+### 7. 打印代码文件
 
 [![打印代码文件.png](https://s21.ax1x.com/2024/04/26/pkPYwdJ.png)](https://imgse.com/i/pkPYwdJ)
 
